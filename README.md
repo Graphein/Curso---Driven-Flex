@@ -60,15 +60,14 @@ Este repositório documenta minha trajetória e os projetos desenvolvidos ao lon
 
 | Módulo | Tema | Projeto | Status |
 |--------|------|---------|--------|
-| Algoritmos (loop, simulação, hash, busca binária etc) | Testes diversos | ✅ |
-| TypeScript | Driven Recharge | ✅ |
-| ORMs e Banco Relacional | DrivenPass | ✅ |
-| Testes de Integração | MyTickets | ✅ |
-| Testes Unitários | Milhas | ✅ |
-| Orientação a Objetos | Feirinha OO, Boardcamp OO | ✅|
-| Clean Code | Refatoração | ✅ Bloqueado |
-| Deploy em Produção | Bingo Driven | ✅ Bloqueado |
-| Metodologias Ágeis | Linkr (projeto em equipe) | ✅|
+| Complexidade de Tempo e Hashtables | Algoritmos, Hash Tables e Análise de Complexidade | Teste de Algoritmos e/ou Estruturas de Dados | ✅ |
+| Orientação a Objetos | Princípios de OO, Classes, Herança e Encapsulamento | Feirinha OO | ✅ |
+| Aplicação Completa com OO | Arquitetura e Desenvolvimento com OO | Boardcamp OO | ✅ |
+| Busca Binária e Complexidade de Espaço | Algoritmos de Busca e Otimização | Teste de Algoritmos e/ou Estruturas de Dados | ✅ |
+| Clean Code e Processos Seletivos | Refatoração, Boas Práticas e Legibilidade | Projeto Refatoração | ✅ |
+| Deploy em Produção | Publicação e Configuração de Aplicações | Bingo Driven | ✅ |
+| Algoritmos Avançados | Resolução de Problemas e Estruturas de Dados | Teste de Algoritmos e/ou Estruturas de Dados | ✅ |
+| Metodologias Ágeis e Scrum | Trabalho em Equipe, Scrum e Gestão Ágil | Linkr (Projeto em Equipe) | ✅ |
 
 ---
 
