@@ -50,9 +50,9 @@ Este repositório documenta minha trajetória e os projetos desenvolvidos ao lon
 | 01 | Node.js + Express | Feirinha | 10 | 9 | ✅ |
 | 02 | MongoDB | Tweeteroo | 10 | 8 | ✅ |
 | 03 | Arquitetura Back-end | MyWallet | 9 | 8 | ✅ |
-| 04 | PostgreSQL e SQL | LinkeDriven | 7 | 5 | ⏳ Em andamento |
-| 05 | SQL Avançado | Boardcamp | 6 | 5 | 🔒 Bloqueado |
-| 06 | Modelagem de Dados | BlockDriven | 10 | 6 | 🔒 Bloqueado |
+| 04 | PostgreSQL e SQL | LinkeDriven | 7 | 5 | ✅ |
+| 05 | SQL Avançado | Boardcamp | 6 | 5 | ✅|
+| 06 | Modelagem de Dados | BlockDriven | 10 | 6 | ✅ |
 
 ---
 
@@ -60,15 +60,15 @@ Este repositório documenta minha trajetória e os projetos desenvolvidos ao lon
 
 | Módulo | Tema | Projeto | Status |
 |--------|------|---------|--------|
-| Algoritmos (loop, simulação, hash, busca binária etc) | Testes diversos | 🔒 Bloqueado |
-| TypeScript | Driven Recharge | 🔒 Bloqueado |
-| ORMs e Banco Relacional | DrivenPass | 🔒 Bloqueado |
-| Testes de Integração | MyTickets | 🔒 Bloqueado |
-| Testes Unitários | Milhas | 🔒 Bloqueado |
-| Orientação a Objetos | Feirinha OO, Boardcamp OO | 🔒 Bloqueado |
-| Clean Code | Refatoração | 🔒 Bloqueado |
-| Deploy em Produção | Bingo Driven | 🔒 Bloqueado |
-| Metodologias Ágeis | Linkr (projeto em equipe) | 🔒 Bloqueado |
+| Algoritmos (loop, simulação, hash, busca binária etc) | Testes diversos | ✅ |
+| TypeScript | Driven Recharge | ✅ |
+| ORMs e Banco Relacional | DrivenPass | ✅ |
+| Testes de Integração | MyTickets | ✅ |
+| Testes Unitários | Milhas | ✅ |
+| Orientação a Objetos | Feirinha OO, Boardcamp OO | ✅|
+| Clean Code | Refatoração | ✅ Bloqueado |
+| Deploy em Produção | Bingo Driven | ✅ Bloqueado |
+| Metodologias Ágeis | Linkr (projeto em equipe) | ✅|
 
 ---
 
